@@ -1,22 +1,24 @@
 about:
-  description: The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
+  description:
+  |
+    The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
   license: Apache-2.0
   homepage: https://insforge.dev
   head: 7915a52
   archived: false
   latestVersion: v2.3.1
-  collectedAt: 2026-09-04T04:50:51Z
+  collectedAt: 2026-09-04T19:51:36Z
 timeline:
   created: 2025-07-29
   lastCommit: 2026-09-02
   lastRelease: 2026-08-12
 popularity:
-  star: 12843
+  star: 12846
   watcher: 37
-  fork: 1167
+  fork: 1169
   release: 57
   contributor: 115
-  pullRequest: 378
+  pullRequest: 1573
   issue: 448
 language:
   TypeScript: 6828482
@@ -27,7 +29,7 @@ language:
   Dockerfile: 9572
   HTML: 3201
   Python: 2292
-totalLine: 7307169
+totalBytes: 7307169
 recent:
   last30d:
     since: 2026-08-05
@@ -37,6 +39,14 @@ recent:
     closedIssue: 19
     openIssue: 32
     commit: 170
+  last60d:
+    since: 2026-07-06
+    release: 5
+    mergedPR: 190
+    openPR: 55
+    closedIssue: 53
+    openIssue: 46
+    commit: 518
   last90d:
     since: 2026-06-06
     release: 11
@@ -61,3 +71,21 @@ recent:
     closedIssue: 344
     openIssue: 74
     commit: 3751
+  last720d:
+    since: 2024-09-14
+    release: 57
+    mergedPR: 1195
+    openPR: 83
+    closedIssue: 374
+    openIssue: 74
+    commit: 5526
+total:
+  release: 57
+  mergedPR: 1195
+  openPR: 83
+  closedIssue: 374
+  openIssue: 74
+  commit: 5526
+---
+---
+

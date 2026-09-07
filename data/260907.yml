@@ -5,18 +5,18 @@ about:
   head: 7915a52
   archived: false
   latestVersion: "v2.3.1"
-  collectedAt: 2026-09-07T04:50:56Z
+  collectedAt: 2026-09-07T19:33:06Z
 timeline:
   created: 2025-07-29
   lastCommit: 2026-09-02
   lastRelease: 2026-08-12
 popularity:
-  star: 12861
+  star: 12868
   watcher: 38
   fork: 1170
   release: 57
   contributor: 115
-  pullRequest: 1583
+  pullRequest: 1584
   issue: 450
 language:
   TypeScript: 6828482
@@ -33,60 +33,60 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 39
-    openPR: 44
-    closedIssue: 16
-    openIssue: 29
+    openPR: 45
+    closedIssue: 17
+    openIssue: 28
     commit: 53
   last60d:
     since: 2026-07-09
     release: 5
     mergedPR: 178
-    openPR: 63
-    closedIssue: 52
-    openIssue: 47
+    openPR: 64
+    closedIssue: 53
+    openIssue: 46
     commit: 428
   last90d:
     since: 2026-06-09
     release: 11
     mergedPR: 273
-    openPR: 71
-    closedIssue: 82
-    openIssue: 53
+    openPR: 72
+    closedIssue: 83
+    openIssue: 52
     commit: 779
   last180d:
     since: 2026-03-11
     release: 32
     mergedPR: 589
-    openPR: 93
-    closedIssue: 231
-    openIssue: 75
+    openPR: 94
+    closedIssue: 232
+    openIssue: 74
     commit: 1915
   last360d:
     since: 2025-09-12
     release: 57
     mergedPR: 1010
-    openPR: 93
-    closedIssue: 344
-    openIssue: 76
+    openPR: 94
+    closedIssue: 345
+    openIssue: 75
     commit: 3700
   last720d:
     since: 2024-09-17
     release: 57
     mergedPR: 1195
-    openPR: 93
-    closedIssue: 374
-    openIssue: 76
+    openPR: 94
+    closedIssue: 375
+    openIssue: 75
     commit: 5526
 total:
   release: 57
   mergedPR: 1195
-  openPR: 93
-  closedIssue: 374
-  openIssue: 76
+  openPR: 94
+  closedIssue: 375
+  openIssue: 75
   commit: 5526
 ---
 path: /home/runner/.x-repo/github.com/InsForge/InsForge
-collectedAt: 2026-09-07T04:51:08Z
+collectedAt: 2026-09-07T19:33:18Z
 loc:
   TypeScript:
     code: 116886
@@ -177,7 +177,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:51:13+00:00
+  collectedAt: 2026-09-07T19:33:20+00:00
   platform:
     darwin/arm64:
       name:  null

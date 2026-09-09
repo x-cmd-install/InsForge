@@ -7,7 +7,7 @@ The all-in-one, open-source backend platform for agentic coding. InsForge gives 
 - **Latest release**: `v2.3.2` (2026-09-08)
 - **Last commit**: 2026-09-08
 - **License**: Apache-2.0
-- **Stars**: 12926 · **Forks**: 1175 · **Open issues**: 453 · **Contributors**: 115
+- **Stars**: 12944 · **Forks**: 1176 · **Open issues**: 453 · **Contributors**: 115
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/InsForge> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:55:26Z._
+_Last regenerated: 2026-09-09T19:07:20Z._

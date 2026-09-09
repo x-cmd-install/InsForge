@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.3.2"
   latestRelease: "v2.3.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:55:11Z
+  collectedAt: 2026-09-09T19:07:07Z
 timeline:
   created: 2025-07-29
   lastCommit: 2026-09-08
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 12926
+  star: 12944
   watcher: 38
-  fork: 1175
+  fork: 1176
   release: 58
   contributor: 115
   pullRequest: 1586
@@ -90,7 +90,7 @@ total:
   commit: 5533
 ---
 path: /home/runner/.x-repo/github.com/InsForge/InsForge
-collectedAt: 2026-09-09T04:55:22Z
+collectedAt: 2026-09-09T19:07:16Z
 loc:
   TypeScript:
     code: 117160

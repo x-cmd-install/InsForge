@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.3.2"
   latestRelease: "v2.3.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:56:05Z
+  collectedAt: 2026-09-10T16:48:47Z
 timeline:
   created: 2025-07-29
   lastCommit: 2026-09-08
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 12950
+  star: 12953
   watcher: 38
-  fork: 1176
+  fork: 1180
   release: 58
   contributor: 115
-  pullRequest: 1586
+  pullRequest: 1587
   issue: 453
 language:
   TypeScript: 6841652
@@ -37,7 +37,7 @@ recent:
     since: 2026-08-11
     release: 2
     mergedPR: 31
-    openPR: 43
+    openPR: 44
     closedIssue: 12
     openIssue: 27
     commit: 58
@@ -45,7 +45,7 @@ recent:
     since: 2026-07-12
     release: 6
     mergedPR: 161
-    openPR: 64
+    openPR: 65
     closedIssue: 52
     openIssue: 47
     commit: 433
@@ -53,7 +53,7 @@ recent:
     since: 2026-06-12
     release: 11
     mergedPR: 262
-    openPR: 72
+    openPR: 73
     closedIssue: 79
     openIssue: 54
     commit: 784
@@ -61,7 +61,7 @@ recent:
     since: 2026-03-14
     release: 33
     mergedPR: 579
-    openPR: 94
+    openPR: 95
     closedIssue: 218
     openIssue: 77
     commit: 1920
@@ -69,7 +69,7 @@ recent:
     since: 2025-09-15
     release: 58
     mergedPR: 1002
-    openPR: 94
+    openPR: 95
     closedIssue: 345
     openIssue: 78
     commit: 3705
@@ -77,20 +77,20 @@ recent:
     since: 2024-09-20
     release: 58
     mergedPR: 1197
-    openPR: 94
+    openPR: 95
     closedIssue: 375
     openIssue: 78
     commit: 5533
 total:
   release: 58
   mergedPR: 1197
-  openPR: 94
+  openPR: 95
   closedIssue: 375
   openIssue: 78
   commit: 5533
 ---
 path: /home/runner/.x-repo/github.com/InsForge/InsForge
-collectedAt: 2026-09-10T04:56:31Z
+collectedAt: 2026-09-10T16:48:58Z
 loc:
   TypeScript:
     code: 117160

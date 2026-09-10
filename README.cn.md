@@ -4,7 +4,7 @@
 
 The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 
-![InsForge](https://repo.x-cmd.io/InsForge.svg)
+![InsForge](https://repo.x-cmd.io/InsForge.svg?lang=zh)
 
 ## 安装
 
@@ -22,23 +22,22 @@ x install InsForge
 
 - **最新版本**: `v2.3.2` (2026-09-08)
 - **最近提交**: 2026-09-08
-- **发布时间**: 2026-09-08T17:59:39Z
 
 ## 流行度
 
-- **Star**: 12,950 · **Fork**: 1,176 · **开放 issue**: 453 · **贡献者**: 115
+- **Star**: 12,953 · **Fork**: 1,180 · **开放 issue**: 453 · **贡献者**: 115
 
 ## 累计统计
 
-- **发布数**: 58 · **已合并 PR**: 1197 · **开放 PR**: 94 · **已关闭 issue**: 375 · **开放 issue**: 78 · **提交数**: 5533
+- **发布数**: 58 · **已合并 PR**: 1197 · **开放 PR**: 95 · **已关闭 issue**: 375 · **开放 issue**: 78 · **提交数**: 5533
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 31 | 43 | 12 | 27 | 58 |
-| 90d | 2026-06-12 | 11 | 262 | 72 | 79 | 54 | 784 |
-| 360d | 2025-09-15 | 58 | 1002 | 94 | 345 | 78 | 3705 |
+| 30d | 2026-08-11 | 2 | 31 | 44 | 12 | 27 | 58 |
+| 90d | 2026-06-12 | 11 | 262 | 73 | 79 | 54 | 784 |
+| 360d | 2025-09-15 | 58 | 1002 | 95 | 345 | 78 | 3705 |
 
 ## 代码规模
 
@@ -61,4 +60,4 @@ InsForge 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:56:41Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:49:12Z._

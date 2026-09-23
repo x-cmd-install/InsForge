@@ -4,7 +4,7 @@
 
 The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 
-[![x-cmd/install — InsForge Code Quality Monitoring Repo Card](https://repo.x-cmd.io/InsForge.svg?lang=zh)](https://x-cmd.com/install/InsForge)
+[![x-cmd/install — InsForge Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/InsForge.svg?lang=zh)](https://x-cmd.com/install/InsForge)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install InsForge
 
 ## 流行度
 
-- **Star**: 13,016 · **Fork**: 1,196 · **开放 issue**: 455 · **贡献者**: 115
+- **Star**: 13,019 · **Fork**: 1,196 · **开放 issue**: 455 · **贡献者**: 115
 
 ## 累计统计
 
-- **发布数**: 58 · **已合并 PR**: 1199 · **开放 PR**: 107 · **已关闭 issue**: 375 · **开放 issue**: 80 · **提交数**: 5536
+- **发布数**: 58 · **已合并 PR**: 1199 · **开放 PR**: 108 · **已关闭 issue**: 375 · **开放 issue**: 80 · **提交数**: 5536
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 14 | 37 | 4 | 14 | 12 |
-| last60d | 2026-07-24 | 4 | 101 | 69 | 32 | 42 | 276 |
-| 90d | 2026-06-24 | 10 | 230 | 81 | 65 | 52 | 619 |
-| last180d | 2026-03-26 | 33 | 531 | 107 | 175 | 77 | 1737 |
-| 360d | 2025-09-27 | 57 | 954 | 107 | 343 | 80 | 3459 |
-| last720d | 2024-10-02 | 58 | 1199 | 107 | 375 | 80 | 5536 |
+| 30d | 2026-08-24 | 1 | 13 | 38 | 3 | 13 | 12 |
+| last60d | 2026-07-25 | 4 | 100 | 70 | 32 | 42 | 276 |
+| 90d | 2026-06-25 | 10 | 225 | 81 | 65 | 52 | 619 |
+| last180d | 2026-03-27 | 33 | 523 | 108 | 173 | 77 | 1737 |
+| 360d | 2025-09-28 | 57 | 949 | 108 | 342 | 80 | 3459 |
+| last720d | 2024-10-03 | 58 | 1199 | 108 | 375 | 80 | 5536 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ InsForge 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:14:29Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:18:57Z._

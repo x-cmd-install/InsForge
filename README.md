@@ -4,7 +4,7 @@
 
 The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 
-[![x-cmd/install — InsForge Code Quality Monitoring Repo Card](https://repo.x-cmd.io/InsForge.svg)](https://x-cmd.com/install/InsForge)
+[![x-cmd/install — InsForge Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/InsForge.svg)](https://x-cmd.com/install/InsForge)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **225,401** lines of code across **1142** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 13,016 · **Forks**: 1,196 · **Open issues**: 455 · **Contributors**: 115
+- **Stars**: 13,019 · **Forks**: 1,196 · **Open issues**: 455 · **Contributors**: 115
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 1199 · **Open PRs**: 107 · **Closed issues**: 375 · **Open issues**: 80 · **Commits**: 5536
+- **Releases**: 58 · **Merged PRs**: 1199 · **Open PRs**: 108 · **Closed issues**: 375 · **Open issues**: 80 · **Commits**: 5536
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 14 | 37 | 4 | 14 | 12 |
-| last60d | 2026-07-24 | 4 | 101 | 69 | 32 | 42 | 276 |
-| 90d | 2026-06-24 | 10 | 230 | 81 | 65 | 52 | 619 |
-| last180d | 2026-03-26 | 33 | 531 | 107 | 175 | 77 | 1737 |
-| 360d | 2025-09-27 | 57 | 954 | 107 | 343 | 80 | 3459 |
-| last720d | 2024-10-02 | 58 | 1199 | 107 | 375 | 80 | 5536 |
+| 30d | 2026-08-24 | 1 | 13 | 38 | 3 | 13 | 12 |
+| last60d | 2026-07-25 | 4 | 100 | 70 | 32 | 42 | 276 |
+| 90d | 2026-06-25 | 10 | 225 | 81 | 65 | 52 | 619 |
+| last180d | 2026-03-27 | 33 | 523 | 108 | 173 | 77 | 1737 |
+| 360d | 2025-09-28 | 57 | 949 | 108 | 342 | 80 | 3459 |
+| last720d | 2024-10-03 | 58 | 1199 | 108 | 375 | 80 | 5536 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for InsForge lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:14:28Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:18:56Z._

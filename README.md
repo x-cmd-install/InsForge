@@ -14,11 +14,11 @@ x install InsForge
 
 ## Code insight
 
-Total: **226,235** lines of code across **1138** files in the top 5 languages.
+Total: **226,553** lines of code across **1140** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 118,160 | 10,707 | 15,257 | 716 |
+| TypeScript | 118,403 | 10,717 | 15,302 | 718 |
 | Tsx | 50,463 | 1,546 | 4,398 | 335 |
 | Json | 28,917 | 0 | 0 | 24 |
 | Yaml | 16,748 | 408 | 636 | 28 |
@@ -37,22 +37,22 @@ Total: **226,235** lines of code across **1138** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 13,176 · **Forks**: 1,224 · **Open issues**: 484 · **Contributors**: 118
+- **Stars**: 13,182 · **Forks**: 1,226 · **Open issues**: 484 · **Contributors**: 118
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 1221 · **Open PRs**: 124 · **Closed issues**: 378 · **Open issues**: 106 · **Commits**: 5595
+- **Releases**: 61 · **Merged PRs**: 1222 · **Open PRs**: 124 · **Closed issues**: 378 · **Open issues**: 106 · **Commits**: 5596
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 3 | 19 | 21 | 1 | 27 | 35 |
-| last60d | 2026-08-25 | 4 | 31 | 54 | 5 | 39 | 54 |
-| 90d | 2026-07-26 | 7 | 117 | 86 | 34 | 68 | 336 |
-| last180d | 2026-04-27 | 28 | 468 | 124 | 152 | 98 | 1479 |
-| 360d | 2025-10-29 | 56 | 854 | 124 | 262 | 106 | 3094 |
-| last720d | 2024-11-03 | 61 | 1221 | 124 | 378 | 106 | 5595 |
+| 30d | 2026-09-25 | 3 | 20 | 21 | 1 | 27 | 36 |
+| last60d | 2026-08-26 | 4 | 31 | 54 | 5 | 39 | 55 |
+| 90d | 2026-07-27 | 7 | 113 | 86 | 33 | 68 | 337 |
+| last180d | 2026-04-28 | 28 | 468 | 123 | 151 | 98 | 1480 |
+| 360d | 2025-10-30 | 56 | 853 | 124 | 262 | 106 | 3095 |
+| last720d | 2024-11-04 | 61 | 1222 | 124 | 378 | 106 | 5596 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for InsForge lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:47:19Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:50:30Z._

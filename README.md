@@ -33,26 +33,26 @@ Total: **226,553** lines of code across **1140** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.3.5` (2026-10-23)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-11-02
 
 ## Popularity
 
-- **Stars**: 13,278 · **Forks**: 1,245 · **Open issues**: 507 · **Contributors**: 118
+- **Stars**: 13,282 · **Forks**: 1,245 · **Open issues**: 508 · **Contributors**: 118
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 1222 · **Open PRs**: 140 · **Closed issues**: 378 · **Open issues**: 129 · **Commits**: 5596
+- **Releases**: 61 · **Merged PRs**: 1227 · **Open PRs**: 138 · **Closed issues**: 378 · **Open issues**: 130 · **Commits**: 5601
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 3 | 18 | 35 | 1 | 48 | 19 |
-| last60d | 2026-09-03 | 4 | 28 | 63 | 4 | 55 | 45 |
-| 90d | 2026-08-04 | 6 | 90 | 98 | 24 | 87 | 151 |
-| last180d | 2026-05-06 | 27 | 435 | 139 | 149 | 120 | 1301 |
-| 360d | 2025-11-07 | 55 | 839 | 140 | 258 | 129 | 2901 |
-| last720d | 2024-11-12 | 61 | 1222 | 140 | 378 | 129 | 5596 |
+| 30d | 2026-10-04 | 3 | 21 | 33 | 1 | 49 | 24 |
+| last60d | 2026-09-04 | 4 | 33 | 60 | 4 | 56 | 50 |
+| 90d | 2026-08-05 | 6 | 91 | 95 | 23 | 88 | 156 |
+| last180d | 2026-05-07 | 25 | 434 | 137 | 148 | 120 | 1306 |
+| 360d | 2025-11-08 | 55 | 839 | 138 | 258 | 130 | 2906 |
+| last720d | 2024-11-13 | 61 | 1227 | 138 | 378 | 130 | 5601 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for InsForge lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:20:24Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:59:24Z._

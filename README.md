@@ -37,7 +37,7 @@ Total: **226,264** lines of code across **1142** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 13,342 · **Forks**: 1,249 · **Open issues**: 511 · **Contributors**: 118
+- **Stars**: 13,344 · **Forks**: 1,249 · **Open issues**: 511 · **Contributors**: 118
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **226,264** lines of code across **1142** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 16 | 30 | 1 | 38 | 11 |
-| last60d | 2026-09-17 | 3 | 30 | 47 | 2 | 55 | 49 |
-| 90d | 2026-08-18 | 4 | 51 | 88 | 10 | 73 | 70 |
-| last180d | 2026-05-20 | 20 | 387 | 134 | 137 | 119 | 1086 |
-| 360d | 2025-11-21 | 53 | 807 | 145 | 257 | 133 | 2824 |
-| last720d | 2024-11-26 | 61 | 1230 | 145 | 378 | 133 | 5604 |
+| 30d | 2026-10-18 | 1 | 16 | 29 | 1 | 38 | 11 |
+| last60d | 2026-09-18 | 3 | 30 | 47 | 2 | 54 | 49 |
+| 90d | 2026-08-19 | 4 | 47 | 85 | 7 | 70 | 70 |
+| last180d | 2026-05-21 | 20 | 383 | 133 | 133 | 119 | 1086 |
+| 360d | 2025-11-22 | 53 | 803 | 145 | 257 | 133 | 2824 |
+| last720d | 2024-11-27 | 61 | 1230 | 145 | 378 | 133 | 5604 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for InsForge lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:24:36Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:13:37Z._

@@ -14,13 +14,13 @@ x install InsForge
 
 ## Code insight
 
-Total: **226,264** lines of code across **1142** files in the top 5 languages.
+Total: **226,276** lines of code across **1142** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 118,506 | 10,733 | 15,313 | 720 |
 | Tsx | 50,463 | 1,548 | 4,398 | 335 |
-| Json | 28,525 | 0 | 0 | 24 |
+| Json | 28,537 | 0 | 0 | 24 |
 | Yaml | 16,748 | 408 | 636 | 28 |
 | Sh | 4,945 | 943 | 1,052 | 35 |
 
@@ -33,26 +33,26 @@ Total: **226,264** lines of code across **1142** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.3.5` (2026-10-23)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-20
 
 ## Popularity
 
-- **Stars**: 13,348 · **Forks**: 1,251 · **Open issues**: 511 · **Contributors**: 117
+- **Stars**: 13,347 · **Forks**: 1,252 · **Open issues**: 511 · **Contributors**: 117
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 1229 · **Open PRs**: 145 · **Closed issues**: 378 · **Open issues**: 133 · **Commits**: 5604
+- **Releases**: 61 · **Merged PRs**: 1231 · **Open PRs**: 145 · **Closed issues**: 378 · **Open issues**: 133 · **Commits**: 5606
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 15 | 28 | 0 | 38 | 11 |
-| last60d | 2026-09-20 | 3 | 30 | 46 | 2 | 54 | 49 |
-| 90d | 2026-08-21 | 4 | 44 | 80 | 7 | 67 | 69 |
-| last180d | 2026-05-23 | 19 | 377 | 133 | 127 | 119 | 1085 |
-| 360d | 2025-11-24 | 51 | 801 | 145 | 257 | 133 | 2823 |
-| last720d | 2024-11-29 | 61 | 1229 | 145 | 378 | 133 | 5604 |
+| 30d | 2026-10-21 | 1 | 15 | 27 | 0 | 31 | 0 |
+| last60d | 2026-09-21 | 3 | 32 | 46 | 2 | 54 | 0 |
+| 90d | 2026-08-22 | 4 | 46 | 80 | 7 | 67 | 0 |
+| last180d | 2026-05-24 | 19 | 373 | 130 | 125 | 119 | 0 |
+| 360d | 2025-11-25 | 51 | 803 | 145 | 257 | 133 | 0 |
+| last720d | 2024-11-30 | 61 | 1231 | 145 | 378 | 133 | 5606 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for InsForge lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:45:33Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:23:55Z._
